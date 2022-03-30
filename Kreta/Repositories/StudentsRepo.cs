@@ -19,9 +19,9 @@ namespace Kreta.Repositories
         }  
         public void MakeTestData()
         {
-            students.Add(new Student(1,"Imre Zoltán",2));
+            students.Add(new Student(1,"Kis Zoltán",2));
             students.Add(new Student(2,"Nagy Anna",1));
-            students.Add(new Student(3,"Kis Imre",3));
+            students.Add(new Student(3,"Szabó Imre",3));
             students.Add(new Student(4, "Péter Zoltán", 4));
             students.Add(new Student(5, "Ávra Virág", 1));
             students.Add(new Student(6, "Zolyom Rebeka", 2));
